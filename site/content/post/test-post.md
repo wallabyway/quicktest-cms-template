@@ -1,10 +1,11 @@
 ---
 title: Test Post
-date: 2017-06-26T17:59:22-07:00
+date: 2017-06-27T00:59:22.000Z
 description: Some intro blurb goes right here
 image: /img/demo.gif
 ---
 ###My header
+
 Now it's time for some markdown...
 
 
@@ -13,4 +14,5 @@ Now it's time for some markdown...
 Some uploaded images...
 
 ![testing](/img/5907-200.png)
+
 
